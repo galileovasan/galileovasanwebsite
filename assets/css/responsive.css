@@ -164,7 +164,7 @@
   .main-header.style-one .outer-container:before{
     display: none !important;
   }
-
+.content-column{margin-top:33px;}
   .menu-area .mobile-nav-toggler {
     display: block;
     margin-top: 25px;
